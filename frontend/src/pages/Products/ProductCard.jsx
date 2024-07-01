@@ -41,7 +41,7 @@ const ProductCard = ({ p }) => {
               currency: "USD",
             })}
           </p>
-         
+        
         </div>
 
         {/* <p className="mb-3 font-normal text-[#CFCFCF]">
